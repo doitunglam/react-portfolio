@@ -21,8 +21,13 @@
     "typecheck": "tsc --project tsconfig.json --noEmit"
   },
   "dependencies": {
+    "babel-runtime": "^5.3.3",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
+    "react-tsparticles": "^2.8.0",
+    "tsparticles": "^2.8.0",
+    "tsparticles-engine": "^2.8.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
